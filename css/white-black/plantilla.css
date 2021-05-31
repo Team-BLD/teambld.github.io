@@ -1,0 +1,226 @@
+b.plantilla-1 {
+    color: #ffffff;
+}
+b.plantilla-1.on {
+    color: #000000;
+}
+h1.plantilla-1 {
+    color: #ffffff;
+}
+h1.plantilla-1.on {
+    color: #000000;
+}
+h1.plantilla-2 {
+    color: #ffffff;
+}
+h1.plantilla-2.on {
+    color: #000000;
+}
+h1.plantilla-3 {
+    color: #ffffff;
+}
+h1.plantilla-3.on {
+    color: #000000;
+}
+h1.plantilla-4 {
+    color: #ffffff;
+}
+h1.plantilla-4.on {
+    color: #000000;
+}
+h1.plantilla-5 {
+    color: #ffffff;
+}
+h1.plantilla-5.on {
+    color: #000000;
+}
+h1.plantilla-6 {
+    color: #ffffff;
+}
+h1.plantilla-6.on {
+    color: #000000;
+}
+h1.plantilla-7 {
+    color: #ffffff;
+}
+h1.plantilla-7.on {
+    color: #000000;
+}
+h1.plantilla-8 {
+    color: #ffffff;
+}
+h1.plantilla-8.on {
+    color: #000000;
+}
+h1.plantilla-9 {
+    color: #ffffff;
+}
+h1.plantilla-9.on {
+    color: #000000;
+}
+h1.plantilla-10 {
+    color: #ffffff;
+}
+h1.plantilla-10.on {
+    color: #000000;
+}
+span.plantilla-1 {
+    color: #ffffff;
+}
+span.plantilla-1.on {
+    color: #000000;
+}
+span.plantilla-2 {
+    color: #ffffff;
+}
+span.plantilla-2.on {
+    color: #000000;
+}
+span.plantilla-3 {
+    color: #ffffff;
+}
+span.plantilla-3.on {
+    color: #000000;
+}
+span.plantilla-4 {
+    color: #ffffff;
+}
+span.plantilla-4.on {
+    color: #000000;
+}
+span.plantilla-5 {
+    color: #ffffff;
+}
+span.plantilla-5.on {
+    color: #000000;
+}
+span.plantilla-6 {
+    color: #ffffff;
+}
+span.plantilla-6.on {
+    color: #000000;
+}
+span.plantilla-7 {
+    color: #ffffff;
+}
+span.plantilla-7.on {
+    color: #000000;
+}
+span.plantilla-8 {
+    color: #ffffff;
+}
+span.plantilla-8.on {
+    color: #000000;
+}
+span.plantilla-9 {
+    color: #ffffff;
+}
+span.plantilla-9.on {
+    color: #000000;
+}
+span.plantilla-10 {
+    color: #ffffff;
+}
+span.plantilla-10.on {
+    color: #000000;
+}
+div.uno.on{
+    border-color: #6e6e6e;
+    background: #cccccc;
+}
+a.uno.on {
+    animation: mymoveblack 5s infinite;
+}
+@keyframes mymoveblack {
+    50% {box-shadow: 0px 10px 50px #000000;}
+}
+div.dos.on{
+    border-color: #6e6e6e;
+    background: #cccccc;
+}
+a.dos.on {
+    animation: mymoveblack 5s infinite;
+}
+@keyframes mymoveblack {
+    50% {box-shadow: 0px 10px 50px #000000;}
+}
+div.tres.on{
+    border-color: #6e6e6e;
+    background: #cccccc;
+}
+a.tres.on {
+    animation: mymoveblack 5s infinite;
+}
+@keyframes mymoveblack {
+    50% {box-shadow: 0px 10px 50px #000000;}
+}
+div.cuatro.on{
+    border-color: #6e6e6e;
+    background: #cccccc;
+}
+a.cuatro.on {
+    animation: mymoveblack 5s infinite;
+}
+@keyframes mymoveblack {
+    50% {box-shadow: 0px 10px 50px #000000;}
+}
+div.cinco.on{
+    border-color: #6e6e6e;
+    background: #cccccc;
+}
+a.cinco.on {
+    animation: mymoveblack 5s infinite;
+}
+@keyframes mymoveblack {
+    50% {box-shadow: 0px 10px 50px #000000;}
+}
+div.seis.on{
+    border-color: #6e6e6e;
+    background: #cccccc;
+}
+a.seis.on {
+    animation: mymoveblack 5s infinite;
+}
+@keyframes mymoveblack {
+    50% {box-shadow: 0px 10px 50px #000000;}
+}
+div.siete.on{
+    border-color: #6e6e6e;
+    background: #cccccc;
+}
+a.siete.on {
+    animation: mymoveblack 5s infinite;
+}
+@keyframes mymoveblack {
+    50% {box-shadow: 0px 10px 50px #000000;}
+}
+div.ocho.on{
+    border-color: #6e6e6e;
+    background: #cccccc;
+}
+a.ocho.on {
+    animation: mymoveblack 5s infinite;
+}
+@keyframes mymoveblack {
+    50% {box-shadow: 0px 10px 50px #000000;}
+}
+div.nueve.on{
+    border-color: #6e6e6e;
+    background: #cccccc;
+}
+a.nueve.on {
+    animation: mymoveblack 5s infinite;
+}
+@keyframes mymoveblack {
+    50% {box-shadow: 0px 10px 50px #000000;}
+}
+div.diez.on{
+    border-color: #6e6e6e;
+    background: #cccccc;
+}
+a.diez.on {
+    animation: mymoveblack 5s infinite;
+}
+@keyframes mymoveblack {
+    50% {box-shadow: 0px 10px 50px #000000;}
+}
